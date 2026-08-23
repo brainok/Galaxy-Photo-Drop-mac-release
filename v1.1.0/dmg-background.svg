@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="420" viewBox="0 0 700 420">
+  <rect width="700" height="420" fill="#ffffff"/>
+  <text x="350" y="66" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="28" font-weight="600" fill="#111111">Galaxy Photo Drop</text>
+  <text x="350" y="93" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" fill="#111111">v1.1.0</text>
+  <text x="350" y="121" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" fill="#111111">Drag the app to Applications to install</text>
+  <!-- Finder icon centers are y=230. SVG pixels are top-origin; this is the
+       corresponding AppKit center (420 - 230 = 190) rendered in image space. -->
+  <line x1="278" y1="230" x2="410" y2="230" stroke="#111111" stroke-width="13" stroke-linecap="round"/>
+  <path d="M 444 230 L 397 200 L 397 260 Z" fill="#111111"/>
+  <text x="170" y="342" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#111111">Galaxy Photo Drop</text>
+  <text x="530" y="342" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#111111">Applications</text>
+</svg>
